@@ -6,5 +6,5 @@ Precompiled files are available in the `precompiled` directory.
 
 To recompile from source:
 
-- Install [zig cc](https://ziglang.org), the C compiled for WebAssembly/WASI.
+- Install [zig cc](https://ziglang.org), the C compiler for WebAssembly/WASI.
 - Type `make`
