@@ -2,7 +2,7 @@
 
 This is a port of the GNU MP Bignum Library to WebAssembly/WASI.
 
-Precompiled files are available in the `precompiled` directory.
+Precompiled files are available in the [`precompiled`](https://github.com/jedisct1/libgmp-wasm/tree/master/precompiled) directory.
 
 To recompile from source:
 
